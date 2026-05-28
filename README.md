@@ -5,8 +5,8 @@ DETAILED REPORT OF PROJECT IS ATTACHED
 DATSET USED IS "Spam Email Dataset" having Labels HAM and SPAM 
 
 ML Algos Used and Result Findings:
-Logistic Regression  with 0.957 F1 Score WINNER
-Random Forest with 0.956 F1 Score
-Naivee Bayes with 0.817 F1 Score 
+Logistic Regression  with 0.957 F1 Score WINNER ,
+Random Forest with 0.956 F1 Score , 
+Naivee Bayes with 0.817 F1 Score .
 
 
